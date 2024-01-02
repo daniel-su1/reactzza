@@ -1,3 +1,3 @@
 ## Reactzza
 
-SPA Pizza Ordering app in developement
+SPA Pizza Ordering app in development
